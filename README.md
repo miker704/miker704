@@ -70,7 +70,16 @@ I am a 26 year old software engineer and computer scientist from New York City a
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" title="Visual Studio IDE" alt="Visual Studio IDE" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" title="Webpack" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-<img align="left" title="BABEL" alt="BABEL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+<img align="left" title="BABEL" alt="BABEL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /><br> <br>     
+  
+  
+## GitHub Stats:    <span></span>  ![Profile View Counter](https://komarev.com/ghpvc/?username=miker704&color=brightgreen)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=miker704&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&border_color=00FD61) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miker704&theme=chartreuse-dark&langs_count=10&layout=compact&border_color=00FD61)
+
+
+
+
 <!--
 **miker704/miker704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
