@@ -5,7 +5,7 @@ I am a 26 year old software engineer and computer scientist from New York City a
 - 👀 I'm interested in ... Software development, either on the web or on your desktop, machine learning and automation is a huge interest of mine, and helping others learn and grow as engineers has been always my favorite part of comp sci since I was an undergrad. 
 - 😄 Pronouns: He/Him
 - 🌱 I'm currently .. reviewing ... Data Structures and Algorithms in Python, C++, and Rust, working on a few community projects along with my own
-- 👯 I'm looking to collaborate on... anything Im interest in all fields of software developement, variety is the spice of life! 
+- 👯 I'm looking to collaborate on... anything Im interested in all fields of software developement, variety is the spice of life! 
 - ⚡ Fun Fact: Here Something I lived by in College ... infact its ingraved on my dog tag 
 ```
  void life(){
