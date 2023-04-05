@@ -76,7 +76,7 @@ I am a 26 year old software engineer and computer scientist from New York City a
   
   
 ## GitHub Stats:    <span></span>  ![Profile View Counter](https://komarev.com/ghpvc/?username=miker704&color=brightgreen)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=miker704&theme=chartreuse-dark&show_icons=true&include_all_commits=true&border_color=00FD61&count_private=true)
+![Your Repository's Stats](https://github-readme-stats-miker704.vercel.app/api?username=miker704&theme=chartreuse-dark&show_icons=true&include_all_commits=true&border_color=00FD61&count_private=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miker704&theme=chartreuse-dark&langs_count=10&layout=compact&border_color=00FD61)
 
 
